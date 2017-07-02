@@ -11,7 +11,7 @@ and open the template in the editor.
     </head>
     <body>
         <?php
-        echo "Netbeans, My Name Is Haryadi, Im noob on github."
+        echo "Netbeans, My Name Is Haryadi, Im noob on github.";
         ?>
     </body>
 </html>
